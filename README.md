@@ -1,2 +1,0 @@
-# edutrack-apk
-EduTrackbot 
